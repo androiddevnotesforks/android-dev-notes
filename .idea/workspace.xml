@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eddc68cf-8444-4373-952d-80085dbc3a6c" name="Changes" comment="mxbile NOT working." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="308df816b3e13abb50d46363e1123ddfbf6221aa" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LBmMLm5XYXRGBQkxSCAnUYcVEO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ask/PROJECTS/PERSONAL_ROADMAPS/androiddevnotes/docs-androiddevnotes/src/utils&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/ask/PROJECTS/PERSONAL_ROADMAPS/androiddevnotes/docs-androiddevnotes/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/ask/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/223.8214.51/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/utils" />
+      <recent name="$PROJECT_DIR$/docs/apps/ui/animation" />
+      <recent name="$PROJECT_DIR$/static/img" />
+      <recent name="$PROJECT_DIR$/static/static/landing-page" />
+      <recent name="$PROJECT_DIR$/.github" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/img" />
+      <recent name="$PROJECT_DIR$/static/home" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/.github" />
+      <recent name="$PROJECT_DIR$/static/static/landing-page" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eddc68cf-8444-4373-952d-80085dbc3a6c" name="Changes" comment="" />
+      <created>1675352800637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675352800637</updated>
+      <workItem from="1675352801866" duration="5269000" />
+      <workItem from="1675378582307" duration="30000" />
+      <workItem from="1675385619772" duration="1539000" />
+      <workItem from="1675415548883" duration="598000" />
+      <workItem from="1675464698446" duration="6487000" />
+      <workItem from="1675551712723" duration="598000" />
+      <workItem from="1675552574182" duration="107000" />
+      <workItem from="1675554620158" duration="8157000" />
+      <workItem from="1675591332172" duration="7291000" />
+      <workItem from="1675637901965" duration="3273000" />
+      <workItem from="1675644125574" duration="2438000" />
+      <workItem from="1675674774605" duration="593000" />
+      <workItem from="1675692133658" duration="880000" />
+      <workItem from="1675698403491" duration="6026000" />
+      <workItem from="1675723443542" duration="5397000" />
+      <workItem from="1675761212169" duration="597000" />
+      <workItem from="1675763352196" duration="263000" />
+      <workItem from="1675767808523" duration="303000" />
+      <workItem from="1675814171254" duration="894000" />
+      <workItem from="1675847606373" duration="598000" />
+      <workItem from="1675866451711" duration="2441000" />
+      <workItem from="1675889766922" duration="6710000" />
+      <workItem from="1675898091658" duration="145000" />
+      <workItem from="1675900776282" duration="3785000" />
+      <workItem from="1675936541109" duration="584000" />
+      <workItem from="1675944633755" duration="7325000" />
+      <workItem from="1676160010090" duration="35000" />
+      <workItem from="1676160051612" duration="4225000" />
+      <workItem from="1676196153106" duration="365000" />
+      <workItem from="1676196796369" duration="621000" />
+      <workItem from="1676205806197" duration="145000" />
+      <workItem from="1676214998634" duration="2056000" />
+      <workItem from="1676218448726" duration="5082000" />
+      <workItem from="1676243197335" duration="8875000" />
+      <workItem from="1676279520337" duration="10450000" />
+      <workItem from="1676302366732" duration="1105000" />
+      <workItem from="1676329287409" duration="659000" />
+    </task>
+    <task id="LOCAL-00001" summary="mxbile NOT working.">
+      <created>1675609592663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675609592663</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="21f8d507-ec29-4028-a200-b3b2460b8038">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="779c102d-25c2-4031-b7d3-a90f93469ac8">
+          <value>
+            <State>
+              <option name="LONG_EDGES_VISIBLE" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="779c102d-25c2-4031-b7d3-a90f93469ac8" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mxbile NOT working." />
+    <option name="LAST_COMMIT_MESSAGE" value="mxbile NOT working." />
+  </component>
+</project>
